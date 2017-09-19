@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\manav\documents\visual studio 2015\projects\clase vec3\clase vec3\source.cpp(9): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  Clase Vec3.vcxproj -> c:\users\manav\documents\visual studio 2015\Projects\Clase Vec3\Debug\Clase Vec3.exe
+  Clase Vec3.vcxproj -> c:\users\manav\documents\visual studio 2015\Projects\Clase Vec3\Debug\Clase Vec3.pdb (Full PDB)
